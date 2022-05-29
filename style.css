@@ -1,6 +1,6 @@
 
 .top-banner{
-    background: url(https://drive.google.com/file/d/1DbxnNxbjO_foSmuQJ9JKn7wldsh3XphS/view?usp=sharing) no-repeat center;
+    background: url(bg.jpg) no-repeat center;
     background-size: cover;
     padding: 16.875rem 0 9.375rem;
 }
@@ -45,7 +45,7 @@
     font-weight: 700;
     color: var(--primary-color);
     padding-bottom: 1rem;
-    border-bottom: 0.0625rem solid #eee;
+    border-bottom: 0.0625rem solid#eee;
 }
 
 .explore-food .card span del{
